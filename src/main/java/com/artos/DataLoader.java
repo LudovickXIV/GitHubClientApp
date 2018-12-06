@@ -29,7 +29,7 @@ public class DataLoader {
      *
      * @param listener OnDataPass
      */
-    public void setUserListener(OnDataPass listener) {
+    public void setListener(OnDataPass listener) {
         this.listener = listener;
     }
 
